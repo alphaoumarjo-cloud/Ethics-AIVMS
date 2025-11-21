@@ -23,10 +23,30 @@ AIVMS is more than metrics. It’s a modular, narrative-infused valuation system
 - 🚀 Evolution: iterative upgrades + symbolic intelligence ecosystem
 
 
-## How to Contribute
+## 🤝 How to Contribute
 
+We welcome contributions from **engineers, ethicists, designers, and storytellers**.  
+Your unique perspective helps us build a richer, more responsible AI valuation framework.
 
-We welcome engineers, ethicists, designers, and storytellers. See [Contributing Guidelines](CONTRIBUTING.md) for role mapping and project workflow.
+### 📌 Getting Started
+- Review our [Contributing Guidelines](CONTRIBUTING.md) for role mapping and project workflow.
+- Fork the repository and create a feature branch (`git checkout -b feature-name`).
+- Make your changes with clear documentation and reproducible steps.
+- Submit a pull request with a concise description of your contribution.
+
+### 🧭 Contribution Roles
+- **Engineers** → Implement models, simulations, and technical infrastructure.  
+- **Ethicists** → Evaluate frameworks for fairness, bias, and social responsibility.  
+- **Designers** → Shape user experience, visualization, and communication of results.  
+- **Storytellers** → Craft narratives that humanize technology and make the project accessible.
+
+### ✅ Contribution Workflow
+1. Open an issue to discuss your idea.  
+2. Align with role mapping in the guidelines.  
+3. Develop and document your contribution.  
+4. Submit a pull request for review.  
+
+Together, we can build a peer‑reviewable, ethical AI valuation system.
 
 
 ## Repository Structure
